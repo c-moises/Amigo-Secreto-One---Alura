@@ -14,5 +14,7 @@ Clicar em sortear amigo(o sorteio será realozado de forma aleatória).
 Tecnologias utilizadas:
 
 HTML5 - para fazer as marcações da página.
+
 CSS3 - para fazer a estilização da página.
+
 javascript - Para a lógica do sorteio.
